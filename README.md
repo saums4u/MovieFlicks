@@ -13,3 +13,4 @@ Completed user stories:
 Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
 
 Walkthrough of all user stories:
+![Video Walkthrough](movie_flicks_walk_through.gif)
